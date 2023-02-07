@@ -23,8 +23,8 @@
         fetch(e.href, n)
     }
 })();
-const f = "/assets/bot-61bdb6bf.svg",
-    m = "/assets/user-bcdeb18e.svg",
+const f = "https://fresh-teacher.github.io/ai/assets/bot-61bdb6bf.svg",
+    m = "https://fresh-teacher.github.io/ai/assets/user-bcdeb18e.svg",
     c = document.querySelector("form"),
     a = document.querySelector("#chat_container");
 let d;
