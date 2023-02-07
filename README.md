@@ -1,1 +1,1 @@
-# bot-6
+# Your site is live at https://freshteacher.software/bot-6/
